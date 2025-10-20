@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace cr0wLib_cs.Utils
+﻿namespace cr0wLib_cs.Utils
 {
     public class Math
     {
